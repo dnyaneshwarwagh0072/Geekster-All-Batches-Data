@@ -2,6 +2,9 @@
 LINK : https://github.com/geeksterin
 LINK : https://github.com/orgs/geeksterin/repositories
 
+LINK-FOR-JAN-22-FUNDAMENTALS-DATA :
+LINK :
+
 LINK-FOR-LIVE-PROJECT-DATA :
 LINK : https://github.com/geeksterin/April22-Live-Project
 
