@@ -1,5 +1,8 @@
 # Geekster-All-Batches-Data
+All the batches of Geekster
 LINK : https://github.com/geeksterin
+
+All the Repositories of Geekster
 LINK : https://github.com/orgs/geeksterin/repositories
 
 LINK-FOR-JAN-22-FUNDAMENTALS-DATA :
