@@ -17,6 +17,9 @@ LINK :https://docs.google.com/spreadsheets/d/1qlD-W84uE9ZH2hFumNDkGQGlHlzY52TUsA
 DSA-APR-2022-CLASS-REPOSITORIES :
 LINK :https://github.com/geeksterin/Apr22-Java-DSA-Hindi/tree/master
 
+DSA-APR-2022-CLASS-REPOSITORIES-OF-CURRICULUM :
+LINK : https://docs.google.com/document/d/1mkWnt_mGAICVjskj9JC1EYJDIrnfnNed_VzDjIhZPUk/edit
+
 LINK-FOR-LIVE-PROJECT-DATA :
 LINK : https://github.com/geeksterin/April22-Live-Project
 
