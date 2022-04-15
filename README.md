@@ -11,6 +11,12 @@ LINK : https://github.com/geeksterin/Jan22-Web-Fundamentals
 DSA Class Recording's MARCH Fundamentals Batch-2022
 LINK :https://docs.google.com/spreadsheets/d/1t1RpiVgKQfBDCfi3Sk3axEYxdG_ZPzyQhV81bv7ZziY/edit?usp=drivesdk
 
+DSA-APR-2022-CLASS-RECORDINGS :
+LINK :https://docs.google.com/spreadsheets/d/1qlD-W84uE9ZH2hFumNDkGQGlHlzY52TUsA8_xV1CGqA/htmlview
+
+DSA-APR-2022-CLASS-REPOSITORIES :
+LINK :https://github.com/geeksterin/Apr22-Java-DSA-Hindi
+
 LINK-FOR-LIVE-PROJECT-DATA :
 LINK : https://github.com/geeksterin/April22-Live-Project
 
