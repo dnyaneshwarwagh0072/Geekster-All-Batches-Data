@@ -5,14 +5,11 @@ LINK : https://docs.google.com/spreadsheets/d/1o_2PveFLq5iJqPKOjlyWdZZn0EX2nFGI6
 MARCH-DSA-Fundamentals Batch-2022
 LINK :https://docs.google.com/spreadsheets/d/1t1RpiVgKQfBDCfi3Sk3axEYxdG_ZPzyQhV81bv7ZziY/edit?usp=drivesdk
 
-APR-2022-DSA-CLASS-RECORDINGS :
-LINK :https://docs.google.com/spreadsheets/d/1qlD-W84uE9ZH2hFumNDkGQGlHlzY52TUsA8_xV1CGqA/htmlview
-
 LIVE-PROJECT- LECTURE-RECORDINGS :
 LINK : https://docs.google.com/spreadsheets/d/1SGnXxUoRDDPsK5xOoqtGTLmdzVJjJmC7kXffw3mLZoc/edit#gid=0
 
-
-
+APR-2022-DSA-CLASS-RECORDINGS :
+LINK :https://docs.google.com/spreadsheets/d/1qlD-W84uE9ZH2hFumNDkGQGlHlzY52TUsA8_xV1CGqA/htmlview
 
 All the batches of Geekster :
 LINK : https://github.com/orgs/geeksterin/repositories
@@ -31,6 +28,3 @@ LINK : https://docs.google.com/document/d/1mkWnt_mGAICVjskj9JC1EYJDIrnfnNed_VzDj
 
 LIVE-PROJECT-DATA :
 LINK : https://github.com/geeksterin/April22-Live-Project
-
-
-
