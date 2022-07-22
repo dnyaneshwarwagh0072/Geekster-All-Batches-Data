@@ -2,6 +2,9 @@
 JAN-15-TO-MARCH-13-2022-RECORDINGS :
 LINK : https://docs.google.com/spreadsheets/d/1o_2PveFLq5iJqPKOjlyWdZZn0EX2nFGI6pvbeb8GyE8/edit#gid=0
 
+Crypto Currency Project Recording sessions :
+LINK : https://docs.google.com/spreadsheets/d/1SGnXxUoRDDPsK5xOoqtGTLmdzVJjJmC7kXffw3mLZoc/edit#gid=0
+
 MARCH-DSA-Fundamentals Batch-2022
 LINK :https://docs.google.com/spreadsheets/d/1t1RpiVgKQfBDCfi3Sk3axEYxdG_ZPzyQhV81bv7ZziY/edit?usp=drivesdk
 
