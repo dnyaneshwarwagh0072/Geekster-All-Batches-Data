@@ -8,9 +8,6 @@ LINK : https://docs.google.com/spreadsheets/d/1SGnXxUoRDDPsK5xOoqtGTLmdzVJjJmC7k
 MARCH-DSA-Fundamentals Batch-2022
 LINK :https://docs.google.com/spreadsheets/d/1t1RpiVgKQfBDCfi3Sk3axEYxdG_ZPzyQhV81bv7ZziY/edit?usp=drivesdk
 
-React-Js-Recording Links :
-https://msalam156.github.io/myPersonal/ClassesLinks/ClassGeekster.html
-
 LIVE-PROJECT- LECTURE-RECORDINGS :
 LINK : https://docs.google.com/spreadsheets/d/1SGnXxUoRDDPsK5xOoqtGTLmdzVJjJmC7kXffw3mLZoc/edit#gid=0
 
