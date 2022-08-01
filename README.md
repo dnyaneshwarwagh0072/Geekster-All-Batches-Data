@@ -14,6 +14,9 @@ LINK : https://docs.google.com/spreadsheets/d/1SGnXxUoRDDPsK5xOoqtGTLmdzVJjJmC7k
 APR-2022-DSA-CLASS-RECORDINGS :
 LINK :https://docs.google.com/spreadsheets/d/1qlD-W84uE9ZH2hFumNDkGQGlHlzY52TUsA8_xV1CGqA/htmlview
 
+React-js Recording Classes :
+LINK : https://classes.geekster.in/course/62e12e2e2f4afd0b1ee66ead?selectedTopic=62e12e862f4afd0b1ee66fd4
+
 React-js Data (Programme and Data)
 LINK : https://github.com/geeksterin/Jul-22-Adv.-FE.-React
 
